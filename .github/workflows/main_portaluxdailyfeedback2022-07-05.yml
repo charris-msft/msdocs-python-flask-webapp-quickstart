@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PortalUXDailyFeedback2022-07-05'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C17C0199F3DB43469D2271ADED5511E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_791BA3B38D934F7F8EE4258613D16B06 }}
